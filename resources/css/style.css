@@ -1,0 +1,30 @@
+/* Universal Styles */
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #000000;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+  height: 3.875rem;
+}
+
+.navbar ul {
+  margin-right: 3.4375rem;
+}
+
+img.navbar-brand.collapse.navbar-collapse {
+  margin-left: 3.875rem;
+  max-height: 50px;
+}
