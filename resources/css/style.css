@@ -12,6 +12,10 @@ body {
   padding-right: 0;
 }
 
+.row {
+  width: 100%;
+}
+
 /* Navigation bar */
 .navbar {
   background-color: #000000;
@@ -53,4 +57,8 @@ body {
   align-items: center;
   height: 15rem;
   padding-top: 5rem;
+}
+
+#map {
+  background-image: url("../images/map.jpg");
 }
